@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahiltheboss
-- 👀 I’m interested in Headless E-Commerce, Apps & generally making E-commerce more Human 2 Human
-- 🌱 I’m currently learning PHP & SQL
+- Building @Kwikedart
+- 👀 I’m interested in solving under-rated problems in niche industries which can become true moat(S)
 - 💞️ I’m looking to collaborate on PowerApps, Azure, Firebase & anything which is serverless & can be scalable
 - 📫 You can reach me on @rahiltheboss on GH and on rahilvms@gmail.com
 
